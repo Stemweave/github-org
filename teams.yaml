@@ -1,0 +1,12 @@
+# The organization's teams. The team name becomes its slug, which the repositories list refers to,
+# so create a team here before giving it access to a repository there.
+#
+# maintainers can manage the team. members can't. Use GitHub usernames.
+
+teams:
+  platform:
+    description: Owns the shared workflows and the GitHub setup
+    privacy: closed
+    maintainers:
+      - WasathTheekshana
+    members: []

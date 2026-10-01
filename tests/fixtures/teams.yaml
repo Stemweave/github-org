@@ -1,0 +1,15 @@
+teams:
+  platform:
+    description: Owns the shared workflows
+    maintainers:
+      - alice
+    members:
+      - bob
+      - carol
+
+  reviewers:
+    privacy: secret
+    members:
+      - bob
+
+  empty:
