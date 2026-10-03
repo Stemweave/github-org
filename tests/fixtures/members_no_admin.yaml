@@ -1,0 +1,7 @@
+members:
+  alice:
+    role: member
+  bob:
+    role: member
+  carol:
+    role: member

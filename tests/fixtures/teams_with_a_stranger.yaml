@@ -1,0 +1,6 @@
+teams:
+  platform:
+    maintainers:
+      - alice
+    members:
+      - mallory
