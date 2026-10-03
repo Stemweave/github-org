@@ -10,3 +10,15 @@ teams:
     maintainers:
       - WasathTheekshana
     members: []
+  devops:
+    description: Manage all the deployment things
+    privacy: closed
+    maintainers:
+      - WasathTheekshana
+    members: []
+  developer:
+    description: Developers who do the actual coding
+    privacy: closed
+    maintainers:
+      - WasathTheekshana
+    members: [2003dinijay]

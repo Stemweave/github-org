@@ -36,3 +36,9 @@ variable "config_file" {
   type        = string
   default     = "teams.yaml"
 }
+
+variable "members_file" {
+  description = "The file listing everyone in the organization, relative to this folder."
+  type        = string
+  default     = "members.yaml"
+}

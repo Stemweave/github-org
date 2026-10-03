@@ -1,0 +1,6 @@
+members:
+  alice:
+    role: admin
+  Bob:
+  carol:
+    role: member

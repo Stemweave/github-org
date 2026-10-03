@@ -12,4 +12,9 @@ teams:
     members:
       - bob
 
+  developer:
+    description: Lists left empty in the file are null in YAML
+    maintainers:
+    members:
+
   empty:

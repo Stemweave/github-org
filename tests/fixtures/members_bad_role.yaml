@@ -1,0 +1,5 @@
+members:
+  alice:
+    role: owner
+  bob:
+  carol:

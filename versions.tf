@@ -1,7 +1,6 @@
 terraform {
   required_version = "~> 1.9"
 
-  # State lives in HCP Terraform (formerly Terraform Cloud). Change the organization to yours.
   cloud {
     organization = "Stemweave"
 

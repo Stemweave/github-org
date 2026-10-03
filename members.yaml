@@ -1,0 +1,14 @@
+# Everyone in the organization, and their role. Terraform invites anyone listed who isn't a member
+# yet, and removes anyone it manages who is taken off this list.
+#
+# role is `member` or `admin`. An admin is an organization owner, so keep that short. Use GitHub
+# usernames. Teams (teams.yaml) can only contain people listed here.
+#
+# Taking an admin off this list makes them a member instead of removing them. To remove an admin,
+# change them to `member`, apply, then take them off.
+
+members:
+  WasathTheekshana:
+    role: admin
+  2003dinijay:
+    role: admin
